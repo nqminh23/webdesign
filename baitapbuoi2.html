@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    body {
+      font-size: 40px;
+    }
+  </style>
+  <body>
+    <h>BÀI TẬP BUỔI 2</h>;
+    <li><a href="">bài 1</a></li>
+    <li><a href="">bài 2.1</a></li>
+    <li><a href="">bài 2.2</a></li>
+    <li><a href="">bài 2.3</a></li>
+    <li><a href="">bài 3</a></li>
+  </body>
+</html>
